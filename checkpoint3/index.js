@@ -55,11 +55,11 @@ const curso = {
     }
 }
 
-curso.addAluno("Claúdio Ribeiro Junior", 5, [100, 80, 90]);
+curso.addAluno("Juliett Leal Garcia", 5, [100, 80, 90]);
 curso.addAluno("João Santos Ferreira", 10, [70, 80, 70]);
 curso.addAluno("Adriana Ferreira", 7, [90, 80, 40]);
 
-console.log(curso.resultadoAluno("Claúdio Ribeiro Junior"));
+console.log(curso.resultadoAluno("Juliett Leal Garcia"));
 console.log(curso.resultadoAluno("João Santos Ferreira"));
 console.log(curso.resultadoAluno("Adriana Ferreira"));
 
